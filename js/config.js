@@ -1,6 +1,6 @@
 /* ========= CONFIGURAÇÃO CENTRAL: edite só aqui ========= */
 const CONFIG={
-  KIWIFY_CHECKOUT_URL:"#",          // cole o link real do checkout
+  KIWIFY_CHECKOUT_URL:"https://pay.kiwify.com.br/JV0Ke78",          // cole o link real do checkout
   PRODUCT_PRICE:"R$ 29,90",         // ex.: "R$ 27,90" (vazio = oculta preço)
   ACCESS_DURATION:"Acesso vitalício",  // ex.: "Acesso vitalício" (vazio = texto padrão no FAQ)
   DEMO_VIDEO_URL:"videos/principal.mp4",
